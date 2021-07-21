@@ -1009,6 +1009,7 @@ Illo's in context: https://onepagelove.com/tag/illustrations
 - https://isoflat.com/ Isometric and flat graphic resources 
 - https://www.shapefest.com/ 160,000+ high resolution PNG images of beautiful 3D shapes
 - https://powerpeopleplatform.com/ delicious design library of 3D avatars
+- https://clouddevs.com/3dbay/ An extensive collection of high-quality, royalty-free 3D illustrations
 
 Learn 3d illo in blender https://polygonrunway.com/
 
